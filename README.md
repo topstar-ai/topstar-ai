@@ -45,7 +45,7 @@ Machine learning pipelines that generate forecasts and insights.
 ⚙️ AI Automation Systems
 Agents capable of executing structured workflows and tasks.
 
-<h2 align="center">📊 GitHub Analytics</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true"/> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact"/> </p>
+<!-- <h2 align="center">📊 GitHub Analytics</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true"/> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact"/> </p> -->
 <h2 align="center">🤝 Connect</h2> <p align="center">
 
 💼 LinkedIn
