@@ -136,13 +136,13 @@ Ethereum
 <h2 align="center">🤝 Connect</h2> <p align="center">
 
 💼 LinkedIn
-https://linkedin.com/in/yourprofile
+https://app.daily.dev/topstarai
 
 💻 GitHub
-https://github.com/yourusername
+https://github.com/topstar-ai
 
 🌐 Portfolio
-https://yourportfolio.com
+https://topstar-ai.github.io
 
 </p>
 
