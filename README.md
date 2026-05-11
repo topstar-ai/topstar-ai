@@ -148,5 +148,5 @@ https://topstar-ai.github.io
 
 ⭐ Feel free to explore my repositories and AI / Web3 projects.
 
-<h1> **A note on this profile:**</h1> <p align="center">
-A note on this profile:** This GitHub account is intentionally new. I spent the previous several years as a full-time engineer at a UK-based generative AI company, where all of my work lived inside the employer's private organization and remains covered by NDA. After concluding that engagement in early 2026, I created this personal account to host independent work and sanitized projects that fall outside those agreements. The repositories here represent a small fraction of what I've built — the rest is, and will remain, confidential.
+<h3> **A note on this profile:**</h3>
+This GitHub account is intentionally new. I spent the previous several years as a full-time engineer at a UK-based generative AI company, where all of my work lived inside the employer's private organization and remains covered by NDA. After concluding that engagement in early 2026, I created this personal account to host independent work and sanitized projects that fall outside those agreements. The repositories here represent a small fraction of what I've built — the rest is, and will remain, confidential.
