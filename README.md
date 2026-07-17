@@ -1,7 +1,7 @@
 <h1 align="center">🧠 Senior AI Engineer | LLM & Agentic AI | Full Stack</h1>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:9333EA&height=200&section=header&text=AI%20Engineering%20%C2%B7%20LLM%20%C2%B7%20Automation&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Production-grade%20AI%20systems%20that%20deliver%20business%20value&descSize=16&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:9333EA&height=210&section=header&text=AI%20Engineering%20%7C%20LLM%20%7C%20Automation&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Production-grade%20AI%20systems%20that%20deliver%20business%20value&descSize=16&descAlignY=58"/>
 </p>
 
 <p align="center">
@@ -135,8 +135,8 @@ Let's discuss your project and how I can deliver scalable, compliant, and intell
 
 <p align="center">
 <a href="mailto:stackbuilder1228@gmail.com"><img src="https://img.shields.io/badge/Email-stackbuilder1228%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://wa.me/13613326512"><img src="https://img.shields.io/badge/WhatsApp-%2B1_(361)_332--6512-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://teams.live.com/l/invite/FBAk3iOSJkDyS11JQ?v=g1"><img src="https://img.shields.io/badge/Microsoft_Teams-Join_Meeting-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white"></a>
+<a href="https://wa.me/13613326512"><img src="https://img.shields.io/badge/WhatsApp-%2B1__(361)__332--6512-25D366?style=for-the-badge"></a>
+<a href="https://teams.live.com/l/invite/FBAk3iOSJkDyS11JQ?v=g1"><img src="https://img.shields.io/badge/Microsoft_Teams-Join_Meeting-6264A7?style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -148,5 +148,5 @@ Let's discuss your project and how I can deliver scalable, compliant, and intell
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:7C3AED,100:4F46E5&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:7C3AED,100:4F46E5&height=130&section=footer"/>
 </p>
