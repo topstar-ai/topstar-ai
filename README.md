@@ -19,14 +19,14 @@ Senior AI Engineer with deep expertise in designing and delivering production-gr
 
 <div align="center">
 
-| 🧩 Domain | 💼 What I Deliver | 🛠 Key Technologies |
+| 🧩 Domain | 💼 Expertise & Solutions | 🛠 Technology Stack |
 |:---|:---|:---|
-| 📊 **ML & Data Engineering**  | Data pipelines, feature engineering, model training, evaluation & optimization       | `Python` `PyTorch` `TensorFlow` `scikit-learn` `Pandas` |
-| 🧠 **LLM Engineering**        | LLM application architecture, prompt engineering, model serving, AI service integration  | `FastAPI` `Node.js` `OpenAI API` `Hugging Face`     |
-| 🔎 **RAG Systems**            | Vector search, embedding pipelines, grounded generation, enterprise knowledge assistants | `LangChain` `LlamaIndex` `pgvector` `PostgreSQL`    |
-| 🤖 **AI Agents & Automation** | Tool-calling agents, multi-step reasoning, autonomous workflows, process automation  | `Agent Frameworks` `Function Calling` `n8n` `Make`      |
-| ☁️ **Cloud & Infrastructure** | Containerized deployment, distributed systems, CI/CD pipelines, API infrastructure   | `Docker` `AWS` `GCP` `CI/CD`                            |
-| ⚡ **Full-Stack Platforms**   | AI-powered SaaS, dashboards, CRM & e-commerce integrations                           | `React` `Next.js` `TypeScript` `Shopify` `HubSpot`      |
+| 📊 **ML & Data Engineering** | Data pipelines, feature engineering, model development, training, evaluation, and optimization | `Python` `PyTorch` `TensorFlow` `scikit-learn` `Pandas` `NumPy` |
+| 🧠 **LLM Engineering** | LLM applications, AI backend services, prompt engineering, model integration, and deployment | `FastAPI` `Node.js` `OpenAI API` `Hugging Face` |
+| 🔎 **RAG & Knowledge Systems** | Retrieval pipelines, embeddings, vector search, enterprise knowledge assistants, and grounded generation | `LangChain` `LlamaIndex` `pgvector` `PostgreSQL` |
+| 🤖 **AI Agents & Automation** | Agentic workflows, tool calling, autonomous task execution, business process automation | `Agent Frameworks` `Function Calling` `n8n` `Make` |
+| ☁️ **Cloud & Infrastructure** | Scalable deployment, containerization, distributed systems, API infrastructure, and CI/CD | `Docker` `Kubernetes` `AWS` `GCP` `Azure` |
+| ⚡ **Full-Stack & Enterprise Platforms** | AI-powered SaaS, web applications, dashboards, CRM, ERP, e-commerce integrations | `React` `Next.js` `TypeScript` `Shopify` `HubSpot` `ERP` `CRM` |
 
 </div>
 
