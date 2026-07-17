@@ -31,7 +31,8 @@
 ## 🛠 Technology Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,docker,kubernetes,aws,gcp,postgres,mongodb,git&perline=14"/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi&perline=7"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,postgres,mongodb,git&perline=7"/>
 </p>
 
 ## 🏗 Systems I Build — GitHub Highlights
