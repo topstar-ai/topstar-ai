@@ -1,153 +1,46 @@
-<h1 align="center">🧠 Senior AI Engineer | API Integration | Full Stack </h1>
+<h1 align="center">🧠 Senior AI Engineer | LLM & Agentic AI | Full Stack</h1>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=220&section=header&text=AI%20%2F%20API%20Integration&fontSize=42&fontAlignY=35&animation=fadeIn"/> </p> <p align="center"> <b>Machine Learning • Generative AI • Agents • LLM Engineering • Blockchain Development • Scalable Systems</b> </p> <p align="center"> <img src="https://img.shields.io/badge/Machine%20Learning-Expert-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Generative%20AI-LLM-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/Blockchain-Web3-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/Python-AI%20Engineering-green?style=for-the-badge"> <img src="https://img.shields.io/badge/Smart%20Contracts-Solidity-black?style=for-the-badge"></p>
-
-<h2 align="center">👋 About</h2>
-
-I build production-grade AI and blockchain systems that transform data, intelligent models, and decentralized technologies into reliable software platforms.
-
-My work focuses on machine learning, generative AI, LLM-powered applications, and Web3 development, helping organizations create intelligent products and decentralized applications that automate workflows and generate valuable insights.
-I approach both AI and blockchain development as engineering disciplines, emphasizing scalable architecture, reproducible pipelines, and secure smart contract design.
-
-Key principles I follow:
-• scalable system architecture
-• maintainable AI pipelines
-• secure smart contract development
-• reliable production deployment
-• clean and readable code
-
-<h2 align="center">🚀 Core Expertise</h2>
-🤖 Machine Learning
-
-• Supervised & unsupervised learning
-• Predictive analytics
-• Model evaluation & optimization
-
-🧠 Deep Learning & LLM Systems
-
-• Neural networks
-• Natural language processing
-• Transformer architectures
-• LLM-powered applications
-
-⚡ Modern AI Systems
-
-• Retrieval-Augmented Generation (RAG)
-• Embedding models & vector search
-• AI automation agents
-• AI-powered platforms
-
-🔗 Blockchain & Web3 Development
-
-• Smart contract development
-• Decentralized applications (dApps)
-• Web3 integrations
-• Blockchain-based automation
-
-Technologies frequently used:
-PyTorch •
-scikit-learn •
-LangChain •
-LlamaIndex •
-Solidity •
-Web3.js
-
-<h2 align="center">🛠 Technology Stack</h2> <p align="center"> <img src="https://skillicons.dev/icons?i=python,js,pytorch,tensorflow,docker,aws,gcp,azure,git"/> </p> <p align="center">
-
-AI • Machine Learning • LLM Systems • Blockchain • Web3 • Smart Contracts
-
-</p>
-<h2 align="center">🏗 Systems I Build</h2>
-📚 AI Knowledge Assistants
-
-LLM-powered systems that retrieve and reason over knowledge bases.
-
-🔎 Semantic Search Platforms
-
-Embedding-based retrieval systems for large document collections.
-
-📊 Predictive Analytics Platforms
-
-Machine learning pipelines that generate forecasts and insights.
-
-⚙️ AI Automation Systems
-
-Agents capable of executing structured workflows and tasks.
-
-🔗 Blockchain Applications
-
-Decentralized applications and smart contract systems built on Web3 infrastructure.
-
-<h2 align="center">🧩 AI System Architecture</h2> <p align="center"> Typical AI platforms I design focus on scalable data processing, machine learning pipelines, and production-ready model serving. </p>
-Data Sources
-      ↓
-Data Processing Pipelines
-      ↓
-Feature Engineering
-      ↓
-Machine Learning Models
-      ↓
-LLM & Retrieval Systems
-      ↓
-API Services
-      ↓
-Cloud Deployment
-
-Typical environments include:
-
-• containerized services
-• scalable REST APIs
-• distributed ML pipelines
-• cloud-based infrastructure
-
-Technologies frequently used:
-
-PyTorch •
-scikit-learn •
-LangChain •
-LlamaIndex
-
-<h2 align="center">🔗 Blockchain System Architecture</h2> <p align="center"> Blockchain applications I develop focus on secure smart contracts, decentralized applications, and Web3 integrations. </p>
-User Interface (Web / dApp)
-        ↓
-Web3 Integration Layer
-        ↓
-Smart Contracts
-        ↓
-Blockchain Network
-        ↓
-Off-chain Services / APIs
-        ↓
-Cloud or Decentralized Storage
-
-Typical components include:
-
-• decentralized applications (dApps)
-• smart contract development
-• Web3 integrations
-• secure blockchain transactions
-
-Technologies frequently used:
-
-Solidity •
-Web3.js •
-Ethereum
-
-<h2 align="center">🤝 Connect</h2> <p align="center">
-
-💼 LinkedIn
-https://app.daily.dev/topstarai
-
-💻 GitHub
-https://github.com/topstar-ai
-
-🌐 Portfolio
-https://topstar-ai.github.io
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=180&section=header&text=AI%20Engineering%20%7C%20LLM%20%7C%20Automation&fontSize=36&fontAlignY=35&animation=fadeIn"/>
 </p>
 
-⭐ Feel free to explore my repositories and AI / Web3 projects.
+<p align="center">
+<img src="https://img.shields.io/badge/Machine%20Learning-Expert-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/LLM%20Engineering-Generative%20AI-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/RAG-AI%20Systems-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI%20Agents-Agentic%20AI-orange?style=for-the-badge">
+</p>
 
-<h3> **A note on this profile:**</h3>
-This GitHub account is intentionally new. I spent the previous several years as a full-time engineer at a UK-based generative AI company, where all of my work lived inside the employer's private organization and remains covered by NDA. After concluding that engagement in early 2024, I created this personal account to host independent work and sanitized projects that fall outside those agreements. 
-The repositories here represent a small fraction of what I've built — the rest is, and will remain, confidential.
+## 👋 About
+
+I build production-grade AI systems combining machine learning, data engineering, LLMs, backend infrastructure, and enterprise platforms — turning data into automated workflows, business insights, and scalable digital products.
+
+**Engineering principles:** scalable architecture • reliable AI pipelines • clean backend design • production-ready deployment • maintainable, secure systems
+
+## 🚀 Core Expertise
+
+| Area | What I Do | Stack |
+|---|---|---|
+| **ML & Data Engineering** | Data pipelines, feature engineering, predictive analytics, model training & evaluation | Python, PyTorch, TensorFlow, scikit-learn, Pandas |
+| **LLM Engineering & Backend** | LLM app architecture, prompt engineering, AI service integration, model-serving infra | Python, FastAPI, Node.js, OpenAI API, Hugging Face |
+| **RAG & Knowledge Platforms** | Retrieval-augmented generation, vector search, embedding pipelines, knowledge assistants | LangChain, LlamaIndex, Vector DBs, PostgreSQL |
+| **AI Agents & Automation** | Tool-calling agents, multi-step reasoning, autonomous task execution, business process automation | LangChain Agents, Function Calling, Agent Frameworks |
+| **Cloud & Infrastructure** | Containerized, distributed, CI/CD-driven deployment pipelines | Docker, Kubernetes, AWS, GCP |
+| **Full-Stack & Platforms** | AI-powered SaaS, dashboards, CRM/e-commerce integrations, workflow automation | React, Next.js, TypeScript, Shopify, HubSpot |
+
+## 🛠 Technology Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,docker,kubernetes,aws,gcp,postgres,mongodb,git"/>
+</p>
+
+## 🏗 Systems I Build
+
+- **AI Knowledge Assistants** — LLM-powered retrieval and reasoning over enterprise data
+- **RAG Platforms** — embeddings, vector databases, grounded generation
+- **ML & Data Platforms** — pipelines turning raw data into predictive insight
+- **AI-Powered Web Platforms** — full-stack apps with CRM, Shopify, and HubSpot integrations
+- **Agentic Automation Systems** — agents that execute tasks and connect tools across workflows
+- **Cloud-Native AI Applications** — scalable, production-ready deployments
+
+<p align="center"><i>Data Engineering • Machine Learning • LLM Systems • APIs • Cloud Infrastructure</i></p>
