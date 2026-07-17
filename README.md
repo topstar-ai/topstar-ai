@@ -21,12 +21,12 @@ Senior AI Engineer with deep expertise in designing and delivering production-gr
 
 | 🧩 Domain | 💼 What I Deliver | 🛠 Key Technologies |
 |:---|:---|:---|
-| 📊 **ML & Data Engineering** | Data pipelines, feature engineering, model training, evaluation & optimization | `Python` `PyTorch` `TensorFlow` `scikit-learn` `Pandas` |
-| 🧠 **LLM Engineering** | LLM application architecture, prompt engineering, model serving, AI service integration | `FastAPI` `Node.js` `OpenAI API` `Hugging Face` |
-| 🔎 **RAG Systems** | Vector search, embedding pipelines, grounded generation, enterprise knowledge assistants | `LangChain` `LlamaIndex` `pgvector` `PostgreSQL` |
-| 🤖 **AI Agents & Automation** | Tool-calling agents, multi-step reasoning, autonomous workflows, process automation | `Agent Frameworks` `Function Calling` `n8n` `Make` |
-| ☁️ **Cloud & Infrastructure** | Containerized deployment, distributed systems, CI/CD pipelines, API infrastructure | `Docker` `AWS` `GCP` `CI/CD` |
-| ⚡ **Full-Stack Platforms** | AI-powered SaaS, dashboards, CRM & e-commerce integrations | `React` `Next.js` `TypeScript` `Shopify` `HubSpot` |
+| 📊 **ML & Data Engineering**  | Data pipelines, feature engineering, model training, evaluation & optimization       | `Python` `PyTorch` `TensorFlow` `scikit-learn` `Pandas` |
+| 🧠 **LLM Engineering**        | LLM application architecture, prompt engineering, model serving, AI service integration  | `FastAPI` `Node.js` `OpenAI API` `Hugging Face`     |
+| 🔎 **RAG Systems**            | Vector search, embedding pipelines, grounded generation, enterprise knowledge assistants | `LangChain` `LlamaIndex` `pgvector` `PostgreSQL`    |
+| 🤖 **AI Agents & Automation** | Tool-calling agents, multi-step reasoning, autonomous workflows, process automation  | `Agent Frameworks` `Function Calling` `n8n` `Make`      |
+| ☁️ **Cloud & Infrastructure** | Containerized deployment, distributed systems, CI/CD pipelines, API infrastructure   | `Docker` `AWS` `GCP` `CI/CD`                            |
+| ⚡ **Full-Stack Platforms**   | AI-powered SaaS, dashboards, CRM & e-commerce integrations                           | `React` `Next.js` `TypeScript` `Shopify` `HubSpot`      |
 
 </div>
 
@@ -68,6 +68,17 @@ Senior AI Engineer with deep expertise in designing and delivering production-gr
 - **Honest scoping** — clear estimates, transparent trade-offs, and no over-promising. You always know what's being built and why.
 - **Business-value focus** — every architecture decision maps back to measurable outcomes: automation hours saved, conversion lifted, cost reduced.
 - **Clean handoffs** — documented, maintainable code your team can extend without me.
+
+### Contacts
+
+I am available for contract, or part / full time roles in AI, Full-Stack, and AI automation systems. 
+Let’s discuss your project and how I can deliver scalable, compliant, and intelligent solutions.
+
+- 📧 **Email** : stackbuilder1228@gmail.com
+- 📱 **WhatsApp** : +1 (361) 332-6512    
+- 💬 **Microsoft Teams** : [Join Teams](https://teams.live.com/l/invite/FBAk3iOSJkDyS11JQ?v=g1)
+ 
+Let’s modernize finance operations with AI and automation! 🚀
 
 ### Let's build something
 
