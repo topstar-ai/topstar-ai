@@ -11,15 +11,11 @@
 <img src="https://img.shields.io/badge/AI_Agents-Agentic_AI-EA580C?style=for-the-badge&logo=probot&logoColor=white">
 </p>
 
-<br/>
-
 ## 👋 About
 
 > **Senior AI Engineer** with deep expertise in designing and delivering **production-grade AI systems** — from machine learning pipelines and retrieval-augmented generation to autonomous agent workflows and full-stack platforms.
 >
 > I bridge the gap between cutting-edge AI research and reliable, business-ready software: architecting systems that are **scalable by design, secure by default, and maintainable long after launch**. My focus is simple — turn complex data and AI capabilities into products that deliver **measurable business value**.
-
-<br/>
 
 ## 🚀 Core Expertise
 
@@ -32,101 +28,56 @@
 | ☁️ | **Cloud & Infrastructure** | Scalable deployment, containerization, distributed systems, API infrastructure, and CI/CD | `Docker` `Kubernetes` `AWS` `GCP` `Azure` |
 | ⚡ | **Full-Stack & Enterprise Platforms** | AI-powered SaaS, web applications, dashboards, CRM, ERP, e-commerce integrations | `React` `Next.js` `TypeScript` `Shopify` `HubSpot` |
 
-<br/>
-
 ## 🛠 Technology Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,docker,kubernetes,aws,gcp,postgres,mongodb,git&perline=7"/>
 </p>
 
-<br/>
-
 ## 🏗 Systems I Build — GitHub Highlights
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### 🔎 RAG & Knowledge Systems
 
-**[health_data_RAG](https://github.com/topstar-ai/health_data_RAG)**<br/>
-Health-data RAG platform — embeddings, vector retrieval, citation-grounded answers<br/>
-<sub>`TypeScript` `Next.js` `Supabase` `pgvector`</sub>
-
-**[notionLM](https://github.com/topstar-ai/notionLM)**<br/>
-Talk to your Notion documents using RAG<br/>
-<sub>`TypeScript` `RAG`</sub>
-
-**[fhir-rag-pipeline](https://github.com/topstar-ai/fhir-rag-pipeline)**<br/>
-RAG pipeline built around FHIR-structured healthcare data<br/>
-<sub>`RAG` `Healthcare Data`</sub>
-
-</td>
-<td width="50%" valign="top">
+| Project | Description | Stack |
+|:---|:---|:---|
+| **[health_data_RAG](https://github.com/topstar-ai/health_data_RAG)** | Health-data RAG platform — embeddings, vector retrieval, citation-grounded answers | `TypeScript` `Next.js` `Supabase` `pgvector` |
+| **[notionLM](https://github.com/topstar-ai/notionLM)** | Talk to your Notion documents using RAG | `TypeScript` `RAG` |
+| **[fhir-rag-pipeline](https://github.com/topstar-ai/fhir-rag-pipeline)** | RAG pipeline built around FHIR-structured healthcare data | `RAG` `Healthcare` |
 
 ### 🤖 AI Agents & Automation
 
-**[agency-agents](https://github.com/topstar-ai/agency-agents)** ⭐<br/>
-A complete AI agency of specialized agents — each with its own persona, process, and deliverables
-
-**[agent-skills](https://github.com/topstar-ai/agent-skills)**<br/>
-Super-powered AI agent skills for Claude Code and Codex<br/>
-<sub>`Python`</sub>
-
-**[duh_LLM](https://github.com/topstar-ai/duh_LLM)**<br/>
-Multi-model consensus engine — one LLM opinion isn't enough<br/>
-<sub>`Python`</sub>
-
-**[autoresearch-local-LLM](https://github.com/topstar-ai/autoresearch-local-LLM)** · **[automation-extractor](https://github.com/topstar-ai/automation-extractor)**<br/>
-Local-LLM research automation · structured data extraction<br/>
-<sub>`Python`</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+| Project | Description | Stack |
+|:---|:---|:---|
+| **[agency-agents](https://github.com/topstar-ai/agency-agents)** ⭐ | A complete AI agency of specialized agents — each with its own persona, process, and deliverables | `Shell` `Agents` |
+| **[agent-skills](https://github.com/topstar-ai/agent-skills)** | Super-powered AI agent skills for Claude Code and Codex | `Python` |
+| **[duh_LLM](https://github.com/topstar-ai/duh_LLM)** | Multi-model consensus engine — one LLM opinion isn't enough | `Python` |
+| **[autoresearch-local-LLM](https://github.com/topstar-ai/autoresearch-local-LLM)** | Local-LLM automation for research workflows | `Python` |
+| **[automation-extractor](https://github.com/topstar-ai/automation-extractor)** | Python automation for structured data extraction | `Python` |
 
 ### 📊 ML & Data Engineering
 
-**[LLM-Finetuning](https://github.com/topstar-ai/LLM-Finetuning)** ⭐<br/>
-LLM fine-tuning experiments with PEFT<br/>
-<sub>`Jupyter` `PEFT` `LoRA`</sub>
-
-**[city2graph](https://github.com/topstar-ai/city2graph)**<br/>
-Geospatial relations → graphs for GNNs and spatial network analysis<br/>
-<sub>`Python` `GNN`</sub>
-
-</td>
-<td width="50%" valign="top">
+| Project | Description | Stack |
+|:---|:---|:---|
+| **[LLM-Finetuning](https://github.com/topstar-ai/LLM-Finetuning)** ⭐ | LLM fine-tuning experiments with PEFT | `Jupyter` `PEFT` `LoRA` |
+| **[city2graph](https://github.com/topstar-ai/city2graph)** | Geospatial relations → graphs for GNNs and spatial network analysis | `Python` `GNN` |
 
 ### ⚡ Full-Stack & Tooling
 
-**[resume-matcher](https://github.com/topstar-ai/resume-matcher)**<br/>
-AI-assisted resume ↔ job matching<br/>
-<sub>`TypeScript`</sub>
-
-**[hackathon-frontend](https://github.com/topstar-ai/hackathon-frontend)** · **[filtersjs](https://github.com/topstar-ai/filtersjs)**<br/>
-Product frontend · date-range filtering library<br/>
-<sub>`TypeScript`</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
+| Project | Description | Stack |
+|:---|:---|:---|
+| **[resume-matcher](https://github.com/topstar-ai/resume-matcher)** | AI-assisted resume ↔ job matching | `TypeScript` |
+| **[hackathon-frontend](https://github.com/topstar-ai/hackathon-frontend)** | Hackathon product frontend | `TypeScript` |
+| **[filtersjs](https://github.com/topstar-ai/filtersjs)** | Date-range filtering library | `TypeScript` |
 
 ## 🤝 Contact & Collaboration
 
 ### 💎 Why work with me
 
-| | |
-|:---:|:---|
-| 🎯 | **Production-first mindset** — I ship systems that survive real users, real data, and real scale, not just demos |
-| 🔄 | **End-to-end ownership** — from data pipelines and model integration to APIs, frontend, and deployment |
-| 🤝 | **Honest scoping** — clear estimates, transparent trade-offs, no over-promising |
-| 📈 | **Business-value focus** — every architecture decision maps to measurable outcomes |
-| 📦 | **Clean handoffs** — documented, maintainable code your team can extend without me |
+- 🎯 **Production-first mindset** — I ship systems that survive real users, real data, and real scale, not just demos
+- 🔄 **End-to-end ownership** — from data pipelines and model integration to APIs, frontend, and deployment
+- 🤝 **Honest scoping** — clear estimates, transparent trade-offs, no over-promising
+- 📈 **Business-value focus** — every architecture decision maps to measurable outcomes
+- 📦 **Clean handoffs** — documented, maintainable code your team can extend without me
 
 ### 📬 Get in touch
 
